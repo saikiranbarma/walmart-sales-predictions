@@ -74,6 +74,7 @@ Model Evaluation: Evaluated using Mean Absolute Error (MAE) to understand predic
 ## 6.Results
 
 MAE: The model achieved a Mean Absolute Error of approximately 176,392, indicating predictions are around 12.4% off the typical weekly sales amount.
+
 Visualizations:
 
 Actual vs. Predicted Sales: Line and bar plots to compare real vs. predicted sales.
